@@ -2,3 +2,4 @@ Scrapy>=2.11.0
 itemloaders>=1.1.0
 Twisted>=22.10.0
 pymongo>=4.5.0
+pillow>=10.1.0
